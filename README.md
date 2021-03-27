@@ -34,4 +34,4 @@ If you want to contact us you can reach out at <TeamOutliers23@gmail.com>.
 
 ## License
 
-This project uses the following license: <https://github.com/OutliersTeam/Unicycle-Line-Follower-Robot/blob/main/LICENSE>.
+This project uses the following license: [MIT](https://github.com/OutliersTeam/Unicycle-Line-Follower-Robot/blob/main/LICENSE).

@@ -1,8 +1,5 @@
 # Unicycle Line Follower Robot
 
-![GitHub repo size](https://img.shields.io/github/repo-size/OutliersTeam/Unicycle-Line-Follower-Robot)
-![GitHub contributors](https://img.shields.io/github/contributors/OutliersTeam/Unicycle-Line-Follower-Robot)
-
 ## Problem Statement:
 Design a Unicycle Kinematic model to follow a line. The input for the system is line equation to be followed. Verify the system with inbuilt model in simulink.
 
@@ -13,6 +10,7 @@ The problem statement requires us to design a Unicycle Kinematic Model which is 
 
 * [@BhuvanashreeM](https://github.com/BhuvanashreeM) 🦅
 * [@SaiNikhileshReddy](https://github.com/SaiNikhileshReddy) 🦊
+* [@Apoorva]() 👸
 
 <!--You might want to consider using something like the [All Contributors](https://github.com/all-contributors/all-contributors) specification and its [emoji key](https://allcontributors.org/docs/en/emoji-key).-->
 
